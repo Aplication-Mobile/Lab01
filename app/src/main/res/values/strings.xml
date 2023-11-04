@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="register_name">Nombre completo</string>
+    <string name="register_email">Correo electrónico</string>
+    <string name="register_password">Contraseña</string>
+    <string name="register_confirm_password">Confirmar contraseña</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="welcome">Bienvenidos a</string>
+    <string name="event">Datos del evento</string>
+    <string name="date"> • Fecha: 15 al 17 de noviembre de 2023</string>
+    <string name="organization">• Organizador: Asociación Internacional de Nutrición y Salud </string>
+    <string name="place">• Lugar: Centro de Convenciones Salud Vital, Ciudad Nutriónica </string>
+    <string name="participation">• Participación de tu Empresa: Batidos de Banana Saludable </string>
+    <string name="aboutUs">SOBRE NOSOTROS:</string>
+    <string name="aboutDetails">Hace una década, en la exuberante
+        región de Bananaville, nació tu empresa con una visión clara:
+        llevar la nutrición y la deliciosa frescura de las bananas a todo el mundo.
+        Inspirados por la riqueza nutricional de esta fruta, empezaron a producir batidos de banana
+        innovadores, centrados en la salud y el bienestar. A lo largo de los años, tu empresa ha
+        crecido y se ha convertido en un referente en el sector de alimentos saludables.</string>
+    <string name="btn_sponsors">Patrocinadores</string>
+    <string name="dialog_title">Confirmación</string>
+    <string name="dialog_message">¿Está seguro que desea cerrar sesión?</string>
+    <string name="dialog_positive_button">Cerrar sesión</string>
+    <string name="dialog_negative_button">Cancelar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
